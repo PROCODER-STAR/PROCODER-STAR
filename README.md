@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" alt="Coding" style="border-radius: 15px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFnNWw2NHJxbWs2M3YwODUzNHJxZTBsOGFkbm14ODgxdThnMGwzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300" alt="Coding" style="border-radius: 15px;">
 </div>
 
 ---
@@ -11,8 +11,8 @@
 ## 🌟 About Me
 
 🎓 *BS Software Engineering* at *FAST-NUCES, Pakistan*  
-💻 Exploring *Java, React, Flutter, Node.js & Django*  
-🚀 Interested in *UI/UX, Full-Stack Web & App Development*  
+💻 Exploring *Java, C++, WordPress, & Figma*  
+🚀 Interested in *UI/UX, Graphic Design & Web Development*  
 🎯 Goal: *To become a versatile Software Engineer & Designer*  
 ✨ *Also running my small business brand — Dilara 💎 (handmade accessories)*  
 
@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,flutter,dart,python,cpp,js,html,css,react,nodejs,express,mysql,mongodb,figma,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,mysql,figma,wordpress,illustrator,git&theme=dark" />
 </p>
 
 ---
@@ -40,27 +40,27 @@
 ---
 
 ## 🚀 Projects Highlight
-- HackOps’25 Poster Design (Canva + UI/UX)  
-- Dilara Accessories Website (Frontend + Branding)  
-- Java Swing Login/Register UI (Animated panels)  
-- MasjidPro Management System (JavaFX + OOP)  
-- FLEX Companion App (Flutter + Firebase)  
+- HackOps’25 Poster Design (Canva + UI/UX)
+- HackOps'25 Stickers Design (Canva) 
+- Dilara Logo (Adobe Illustrator + Branding)  
+- Dilara Bussines Card (Adobe Illustrator + Branding)  
+- Fast Transport Management System (Swing + Java + OOP)    
 
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/muhammad-omer-95b752350/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:muhammadomer17806@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
-  <a href="https://github.com/YourGitHubUsername">
+  <a href="https://github.com/PROCODER-STAR">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" height="35"/>
   </a>
-  <a href="https://www.instagram.com/hackops25/">
+  <a href="https://www.instagram.com/muhammadomer17806/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
   </a>
 </div>
