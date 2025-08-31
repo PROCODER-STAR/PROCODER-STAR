@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=FF6F61&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Omer;Software+Engineering+Student;Aspiring+Full-Stack+%26+App+Developer;UI/UX+%26+Creative+Designer" alt="Muhammad Omer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=FF6F61&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Omer;Software+Engineering+Student;UI/UX+%26+Creative+Designer" alt="Muhammad Omer" />
 </h1>
 
 <div align="center">
