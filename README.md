@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=FF6F61&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Omer;Software+Engineering+Student;UI/UX+%26+Creative+Designer" alt="Muhammad Omer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=2500&pause=300&color=FF6F61&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammad+Omer;Software+Engineering+Student;UI/UX+%26+Graphic+Designer" alt="Muhammad Omer" />
 </h1>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 🎓 *BS Software Engineering* at *FAST-NUCES, Pakistan*  
 💻 Exploring *Java, C++, WordPress, & Figma*  
-🚀 Interested in *UI/UX, Graphic Design & Web Development*  
+🚀 Interested in *UI/UX, Graphic Designer & Web Development*  
 🎯 Goal: *To become a versatile Software Engineer & Designer*  
 ✨ *Also running my small business brand — Dilara 💎 (handmade accessories)*  
 
@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=FF6F61&center=true&vCenter=true&width=700&height=60&lines=Thanks+for+visiting+💙" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=800&color=FF6F61&center=true&vCenter=true&width=700&height=60&lines=Thanks+for+visiting" />
 </p>
 
 <p align="center">
