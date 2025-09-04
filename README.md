@@ -29,12 +29,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PROCODER-STAR&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PROCODER-STAR&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PROCODER-STAR&theme=gruvbox" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROCODER-STAR&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROCODER-STAR&layout=compact&theme=gruvbox&hide_border=true" width="50%" />
 </div>
 
 ---
