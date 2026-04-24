@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,mysql,figma,wordpress,illustrator,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,figma,wordpress,illustrator,git&theme=dark" />
 </p>
 
 ---
@@ -40,12 +40,12 @@
 ---
 
 ## 🚀 Projects Highlight
+- Fast Transport Management System (Swing + Java + OOP)
+- Cancer Diagnosis System (C++, JS, DSA)
 - HackOps’25 Poster Design (Canva + UI/UX)
-- HackOps'25 Stickers Design (Canva) 
 - Dilara Logo (Adobe Illustrator + Branding)  
-- Dilara Bussines Card (Adobe Illustrator + Branding)  
-- Fast Transport Management System (Swing + Java + OOP)    
-
+- Dilara Bussines Card (Adobe Illustrator + Branding)
+  
 ---
 
 ## 🤝 Connect With Me
